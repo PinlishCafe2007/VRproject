@@ -68,8 +68,11 @@ body {
 .layer-5 {
     transform: translateZ(380px);
 }
+.layer-6 {
+    transform: translateZ(0px) scale(1);
+}
 .hero-content {
-	font-size: calc(var(--index) * 2.9);
+	font-size: calc(var(--index) * 2.5);
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: calc(var(--index) * -.15);
@@ -83,7 +86,7 @@ body {
 	text-transform: none;
 	font-family: merriweather-italic-3d;
 	letter-spacing: normal;
-	font-size: calc(var(--index) * .73);
+	font-size: calc(var(--index) * .9);
 	line-height: 3;
 }
 .button-start {
