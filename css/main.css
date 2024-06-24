@@ -60,7 +60,7 @@ body {
     transform: translateZ(180px) scale(.8);
 } 
 .layer-3 { 
-    transform: translateZ(190px) scale(.9);
+    transform: translateZ(170px) scale(.9);
 }
 .layer-4 {
     transform: translateZ(300px) scale(.9);
